@@ -1,0 +1,5 @@
+red,red,green,yellow,red,green,yellow,yellow,yellow,yellow
+red,red,green,yellow,red,green,yellow,yellow,yellow
+red,red,green,yellow,green,yellow,yellow,yellow,yellow
+red,red,yellow,red,green,yellow,yellow,yellow,yellow
+red,red,red,green,yellow,yellow,yellow,yellow
